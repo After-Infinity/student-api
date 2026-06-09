@@ -39,3 +39,6 @@ dist/
 *.log
 
 storage
+
+
+/config
